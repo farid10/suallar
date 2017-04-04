@@ -1,13 +1,19 @@
 # suallar
-1) 
+ 
+
 2)Closure funksiya icinde funksiya yaratmaq demekdir.
+
 3) yox
+
 4) error verecek
+
 5) == -beraberliyi yoxluyur.
 
    === -elave olaraq deyisenin novunu de yoxlayir
 6) number, string, boolean, null, undefined, object
+
 7) 33, 123
+
 8) Javascriptin web sehifeye birlesdirilmesinin en yaxsi usulu
 
 9) ilk baxisdan null ve undefined bir-birlerine benseler de onlar ayri anlayislardi.
@@ -28,7 +34,8 @@ undefined ise teyin olunmamis
 
 12) this bize oldugumuz veziyyetden asli olaraq neyise qaytarir 
 - - - - — - - - —  — -
-            sparqalka kimi istifade oluna bilecek bir sey):
+
+   sparqalka kimi istifade oluna bilecek bir sey):
 
   
   
@@ -73,12 +80,15 @@ asan hell etmek, neticenin daha mehsuldar olmasi ve proqramin daha asan islemesi
 gostermek olar.
 
 17) demek olar ki eyni seylerdi
+
 18)OOP pros:Obyektin esas konseptini basa dusmek asandir 
+
 Obyektler ve davranislari birlikde bir obyektnen bagli olur.
+
 19) Hec vaxt
+
 20)prototypal inheritance-in bir cox novleri var. Her bir novun oz istifade yerleri var
 
 21)bu o menayaya gelir ki, bizim yazdigimiz kod yeniden istifade oluna bilir
-22)
-23)
+
 24)Sinxron proqramlasdirmada yerine yetirilmesi uzun ceken emeliyyatllar bloklanir
