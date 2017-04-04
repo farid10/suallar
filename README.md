@@ -17,11 +17,8 @@
 8) Javascriptin web sehifeye birlesdirilmesinin en yaxsi usulu
 
 9) ilk baxisdan null ve undefined bir-birlerine benseler de onlar ayri anlayislardi.
-
 null==undefined bize true qaytarsa da null===undefined bize false qaytaracaq. ilk novbede 
-
 onlarin esas ferqlerinden biri onlarin tiplerinin ferqli olmasidi. null- obyektdir
-
 undefined ise ele undefineddir.
 
 null- bos deyerdi
@@ -33,7 +30,7 @@ undefined ise teyin olunmamis
 11) Riyazi emeller zamani sehvlik haqqinda melumat verir. Nan hec bir reqeme berebe deyil
 
 12) this bize oldugumuz veziyyetden asli olaraq neyise qaytarir 
-- - - - — - - - —  — -
+
 
    sparqalka kimi istifade oluna bilecek bir sey):
 
@@ -62,9 +59,6 @@ a;
 
 console.log(a)// error a not defined 
 
-
-
-
 verecek
 
 14) JS run olunarken butun function-lari yuxariya atir ve onlari cagirir
@@ -72,17 +66,13 @@ verecek
 15) functional, OOP
 
 16) Funksional proqralmlasdirma her hansi problemin helline funksional yolla yanasmaga
-
 imkan verir. bu yanasmanin diger yanasmalardan ferqli cehetlerinden problemi daha tez ve
-
 asan hell etmek, neticenin daha mehsuldar olmasi ve proqramin daha asan islemesini misal 
-
 gostermek olar.
 
 17) demek olar ki eyni seylerdi
 
-18)OOP pros:Obyektin esas konseptini basa dusmek asandir 
-
+18)OOP pros:Obyektin esas konseptini basa dusmek asandir.
 Obyektler ve davranislari birlikde bir obyektnen bagli olur.
 
 19) Hec vaxt
