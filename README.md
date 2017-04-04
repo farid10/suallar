@@ -48,7 +48,6 @@ undefined ise teyin olunmamis
     konstruktor ise this=yeni yaranan obyekt
 
 13) undefined- deyisenin oldugunu gosterir lakin ona qiymet menimsedilmediyini bildirir.
-
 not defined ise umumiyyetle deyiseni gormur. meselen:
 
 --------
@@ -67,6 +66,7 @@ console.log(a)// error a not defined
 
 
 verecek
+
 14) JS run olunarken butun function-lari yuxariya atir ve onlari cagirir
 
 15) functional, OOP
