@@ -1,18 +1,13 @@
 # suallar
-        1) 
-        2)Closure funksiya icinde funksiya yaratmaq demekdir.
-        3) yox
-
+1) 
+2)Closure funksiya icinde funksiya yaratmaq demekdir.
+3) yox
 4) error verecek
-
 5) == -beraberliyi yoxluyur.
 
    === -elave olaraq deyisenin novunu de yoxlayir
-
 6) number, string, boolean, null, undefined, object
-
 7) 33, 123
-
 8) Javascriptin web sehifeye birlesdirilmesinin en yaxsi usulu
 
 9) ilk baxisdan null ve undefined bir-birlerine benseler de onlar ayri anlayislardi.
